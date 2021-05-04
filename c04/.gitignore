@@ -1,0 +1,8 @@
+*.o
+*.swo
+*.swp
+*.swn
+main.c
+ex05.c
+a
+

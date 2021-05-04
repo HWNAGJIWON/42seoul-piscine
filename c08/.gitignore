@@ -1,0 +1,11 @@
+*.o
+a
+a.out
+*.out
+*.swo
+*.swn
+*.swp
+*.swm
+*Test_case_42/*
+main.c
+main1.c

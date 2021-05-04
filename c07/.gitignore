@@ -1,0 +1,11 @@
+*.o
+*.swo
+*.swn
+*.swp
+a
+a.out
+*.swm
+.DS_Store
+main.c
+Test_case_42/*
+ft_split2.c

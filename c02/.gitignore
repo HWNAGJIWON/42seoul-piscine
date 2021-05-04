@@ -1,0 +1,9 @@
+main.c
+*.o
+a
+qqq.c
+*.swo
+*.swp
+*.swn
+example.c
+

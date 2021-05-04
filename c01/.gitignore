@@ -1,0 +1,7 @@
+*.swm
+*.swn
+*.swo
+*.swp
+a
+main.c
+*.o
